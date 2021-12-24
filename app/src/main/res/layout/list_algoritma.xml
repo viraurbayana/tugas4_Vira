@@ -48,7 +48,6 @@
                 android:layout_height="match_parent"/>
             <TextView
                 android:id="@+id/detailJava"
-                android:onClick="Detail"
                 android:layout_width="wrap_content"
                 android:text="website"
                 android:textSize="15dp"
